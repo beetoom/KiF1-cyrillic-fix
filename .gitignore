@@ -1,0 +1,6 @@
+# Binaries
+*.exe
+*.syso
+
+# Icon
+*.ico
